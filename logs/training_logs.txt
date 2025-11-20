@@ -1,0 +1,3 @@
+Modelo log_reg treinado com sucesso.
+Modelo random_forest treinado com sucesso.
+Modelo svm_rbf treinado com sucesso.
