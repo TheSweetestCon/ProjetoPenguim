@@ -33,6 +33,10 @@ python preprocess.py
 ```
 python train_models.py
 ```
+### Testar modelos
+```
+python test_models.py
+```
 Os modelos serão salvos automaticamente na pasta do projeto.
 
 ## Requisitos
